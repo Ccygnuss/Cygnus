@@ -7,8 +7,7 @@ Cygnus is an immersive and engaging game designed to provide players with an unf
 ## Directory Structure
 ```
 Cygnus/
-├── bin/                    # Executable files for the game
-│   └── Cygnus.exe          # Main game executable
+├── bin/                    # Executable files for the game  
 ├── Data/                 # Game assets (images, sounds, etc.)
 ├── src/                    # Source code for the game
 ├── LICENSE                 # License information
@@ -23,9 +22,6 @@ git clone https://github.com/your-username/Cygnus.git
 ```
 cd Cygnus/bin
 ```
-## Running the Game
-1. Locate the Cygnus.exe file in the bin/ directory.
-2. Double-click Cygnus.exe to launch the game.
 ## System Requirements
 - OS: Windows 10 or later
 - Processor: Intel i5 or equivalent
